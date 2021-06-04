@@ -1,11 +1,4 @@
-# lighting-cloud SDK
-
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/lighting-cloud/uniswap-sdk/workflows/CI/badge.svg)](https://github.com/lighting-cloud/uniswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@lighting-cloud/sdk/latest.svg)](https://www.npmjs.com/package/@lighting-cloud/sdk/v/latest)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@lighting-cloud/sdk/latest.svg)](https://bundlephobia.com/result?p=@lighting-cloud/sdk@latest)
-
-In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
+# Boomswap SDK
 
 ## Running tests
 
