@@ -10,7 +10,7 @@ First clone the repository:
 git clone https://github.com/boomswap/boomswap-sdk.git
 ```
 
-Move into the uniswap-sdk working directory
+Move into the boomswap-sdk working directory
 
 ```sh
 cd boomswap-sdk/
